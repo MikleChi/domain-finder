@@ -1,0 +1,1 @@
+Provided API won't work on localhost unless you will have some extensions enabled (e.g. Moesif CORS)
